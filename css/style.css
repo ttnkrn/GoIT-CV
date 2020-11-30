@@ -47,6 +47,7 @@ li {
     background: #ffffff;
     display: flex;
     max-width: 1200px;
+    margin: auto;
 }
 
 .my-photo {
